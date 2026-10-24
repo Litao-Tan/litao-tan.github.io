@@ -1,37 +1,34 @@
-# Litao Tan — Portfolio Website V2
+# Litao Tan | Finance & Quantitative Research
 
-A quieter, editorial-style finance and research portfolio designed for recruiters and hiring managers.
+Personal portfolio website showcasing my experience in investment research, financial analysis, and quantitative modeling.
 
-## Local preview
-Open `index.html` in a browser. `research.html` includes all seven academic case studies; `career.html` contains expanded experience. No build tools or server are needed.
+**Website:** https://litao-tan.github.io
 
-## GitHub Pages deployment
-1. Create a public repository named **litao-tan.github.io** (matching your GitHub user name).
-2. Upload the **contents of this folder** at the repository root: `index.html`, `research.html`, `career.html`, `projects/`, `assets/`.
-3. In repository Settings → Pages, select Deploy from a branch, `main`, `/(root)`.
-4. The intended website URL is `https://litao-tan.github.io/`. This site is not published until you complete those steps.
+## About
 
-## Publishing safeguards
-- Employer-confidential and institution-restricted research files are **not** provided for public download.
-- Student IDs, private addresses and unconfirmed email / LinkedIn links are **not** included.
-- Group work and course simulations are labeled.
-- The available CV is a readable professional overview (`career.html`), not a fabricated downloadable resume.
-- All website research plots are diagrams or reconstructions, not purported real-time market returns.
+I hold an M.S. in Applied Economics and Econometrics from the University of Southern California, with experience in investment banking, equity research, and portfolio analytics.
 
-## Editorial changes from V1
-- Removed crowded company-marketing style; fewer homepage sections and less decoration.
-- Larger, more readable typography, stronger hierarchy and whitespace.
-- Replaced the fictitious hero performance chart with focused research framing.
-- Moved the 7-project library to a dedicated page.
-- Kept original project detail pages, styled consistently.
+My work combines fundamental financial analysis with econometric modeling and data-driven research.
 
-Files: `index.html`, `research.html`, `career.html`, `projects/*.html`, `assets/style.css`, `assets/site.js`, and seven original research figures in `assets/*.svg`.
+## Research & Projects
 
+Selected research areas include:
 
-## V3 — Original academic papers
+- **Portfolio Analytics:** Asset allocation, portfolio rebalancing, and factor models.
+- **Commodity Research:** Price forecasting using SARIMA and supply-demand analysis.
+- **Investment Research:** Institutional ownership, ESG performance, and financial analysis.
+- **Derivatives & Risk Management:** Commodity futures and trading strategies.
+- **Macroeconomics:** Exchange rates, international trade, and economic modeling.
+- **Machine Learning:** Predictive modeling and statistical analysis.
 
-This release adds 12 academic PDFs in `papers/`, links to the seven existing detailed research pages, and an Additional Academic Work section on `research.html`. PDF exports from two DOCX reports were generated for web viewing. Student ID `2020101992` was redacted from the PDFs where machine-searchable. Group coauthors are preserved. **Review all documents manually for any other personal information and third-party content before publishing.**
+Selected academic papers and project summaries are available on my website.
 
-### Update the existing GitHub Pages site
+## Technical Skills
 
-Upload the contents of this folder into the root of `Litao-Tan/litao-tan.github.io`. For changed files, GitHub's web upload may require removing the old files or using GitHub Desktop to overwrite them. The easiest reliable approach is GitHub Desktop: clone repository, copy these files over existing files, commit, and push. Alternatively, upload the `papers/` directory and replace the eight modified HTML pages plus `assets/style.css` individually through the web editor.
+Python · R · SQL · Excel · Financial Modeling · Econometrics · Machine Learning · Bloomberg
+
+## Explore My Portfolio
+
+**[Visit My Website](https://litao-tan.github.io)**
+
+Research projects, professional experience, and selected academic papers are available through the website.
